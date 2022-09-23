@@ -6,11 +6,11 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'initialisation d'un projet ❌ / ✔️
-- travailler avec des branches ❌ / ✔️
-- faire une PR ❌ / ✔️
-- utiliser git rebase pour faire des commits propres ❌ / ✔️
-- utiliser les gitHub actions ❌ / ✔️
+- l'initialisation d'un projet ✔️ -> git init
+- travailler avec des branches ✔️ -> main/dev/feature
+- faire une PR ✔️
+- utiliser git rebase pour faire des commits propres ✔️
+- utiliser les gitHub actions ❌
 
 ## 💻 J'utilise
 
@@ -47,7 +47,7 @@ Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
+- Faire des recherches gitHub actions et l'appliquer sur un projet ❌ / ✔️
 - action 2 ❌ / ✔️
 - ...
 
