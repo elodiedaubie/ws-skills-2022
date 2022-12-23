@@ -12,13 +12,13 @@
   -> types de données JS (string, boolean, number, void, null ...)
 - comment et pourquoi étendre une interface ✔️
   -> une interface permet de définir le typage d'une ou plusieures données et de pouvoir utiliser ce typage partout dans le code (à condition d'exporter l'interface)
-- les classes et les decorators ❌
+- les classes et les decorators ✔️ les decorators sont une syntaxe spécifique qui peuvent d'appliquer à des paramètres ou des classes
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
-```
+```sh
 export interface IWilderProps {
   wilder: IWilder;
   fetchWilders: () => void;
@@ -32,13 +32,13 @@ const Wilder = ({ wilder: {id, name, skills}, fetchWilders } : IWilderProps) => 
   };
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[https://github.com/elodiedaubie/express-hello-wilders](...)
+[Lien GitHub](https://github.com/WildCodeSchool/2209-wns-adleman-citycompass)
 
 Description :
 
-### Utilisation en production si applicable❌
+### Utilisation en production si applicable ❌
 
 [lien du projet](...)
 
@@ -50,9 +50,7 @@ Description :
 
 ## 🌐 J'utilise des ressources
 
-### Doc officielle
-
-- [https://www.typescriptlang.org/]
+- [Doc Officielle TypeScript] (https://www.typescriptlang.org/)
 
 ## 🚧 Je franchis les obstacles
 
