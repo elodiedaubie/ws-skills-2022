@@ -14,21 +14,25 @@
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+```sh
+    git commit -m "feature : add nav to header component"
+```
 
-[lien github](...)
+### Utilisation dans un projet ✔️
+
+[lien github](https://github.com/elodiedaubie/don-graines)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌
 
 Description :
 
