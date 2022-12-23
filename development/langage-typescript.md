@@ -50,7 +50,7 @@ Description :
 
 ## 🌐 J'utilise des ressources
 
-- [Doc Officielle TypeScript] (https://www.typescriptlang.org/)
+- [Doc-Officielle-TypeScript] (https://www.typescriptlang.org/)
 
 ## 🚧 Je franchis les obstacles
 
@@ -60,7 +60,8 @@ Description:
 
 Plan d'action : (à valider par le formateur)
 
-- Revoir la notion de classes et les decorators ❌ / ✔️
+- Action 1 ❌ / ✔️
+- Action 2 ❌ / ✔️
 
 Résolution :
 
