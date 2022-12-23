@@ -26,8 +26,10 @@
   -> préparer une liste de user stories à effectuer sur une période données (souvent deux semaines).L'idée est de pouvoir réaliser toutes les tâches sur la période donnée, par ordre de priorité, sans rush final.
 - A quoi sert le Burndown Chart ? ✔️
   -> A déterminer la vélocité de travail de l'équipe
-- Quelles sont les 2 unités de complexité ? ❌
-- Qu'est-ce qu'une Definition of done ? A quoi sert elle ? ❌
+- Quelles sont les 2 unités de complexité ? ✔️
+  -> On peut utiliser soit la suite de Fibonnacci soit une échelle de type S, M, L, XL
+- Qu'est-ce qu'une Definition of done ? A quoi sert elle ? ✔️
+  -> L'idée est de définir au préalable tout ce qui est attendu lors de la réalisation d'une fonctionnalité (ex : est-ce que le style est inclus, est ce qu'il y a des tests à écrire, si nouvelle route, est-ce que celle-ci doit être implémentée sur tous les liens/boutons prévu dans la maquette). Elle permet d'éviter les aller/retour entre le codeur et le code reviewer par exemple et de bien définir la complexité et la durée de la tâche.
 
 ## 💻 J'utilise
 
@@ -55,8 +57,8 @@ Description :
 
 ### Titre
 
-- lien
-- description
+- [Agile Manifesto] (https://agilemanifesto.org/)
+- [La Méthode Scrum] (https://fr.wikipedia.org/wiki/Scrum_(d%C3%A9veloppement))
 
 ## 🚧 Je franchis les obstacles
 
@@ -66,8 +68,8 @@ Description:
 
 Plan d'action : (à valider par le formateur)
 
-- Creuser la notion de définition of done ❌ / ✔️
-- Creuser les 2 niveaux de complexité ❌ / ✔️
+- Action 1 ❌ / ✔️
+- Action 2 ❌ / ✔️
 - ...
 
 Résolution :
