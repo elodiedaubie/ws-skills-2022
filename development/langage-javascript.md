@@ -66,8 +66,8 @@ Description :
 
 ### Doc Javascript
 
-[https://developer.mozilla.org/fr/docs/Web/JavaScript]
-[https://devdocs.io/javascript/]
+- [Doc-JS-MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+- [Doc-JS](https://devdocs.io/javascript/)
 
 ## 🚧 Je franchis les obstacles ❌ / ✔️
 
