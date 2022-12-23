@@ -13,8 +13,8 @@
   -> utilisation des functions natives de JS sur tableau (.filer, .map, .foreach), string (.lenght, .repeat, .search)
 - les normes `ecmascript` ✔️
   -> la dernière version majeure est ES6, il s'agit de définir les normes du lanagages. A chaque nouvelle version (tous les ans), des nouvelles fonctionnalités, mot clé ou structures sont apportées. Ex : var qui est devenu let/const ou les fonction fléchées au lieu de l'utilisation du mot clé function
-- l'utilisation de l'`asynchrone` ❌
-  -> J'ai utilisé l'async/await mais n'ai pas tout à fait compris la notion de promise
+- l'utilisation de l'`asynchrone` ✔️
+  -> La programmation asynchrone implique que l'éxécution du code n'attend pas d'une fonction qu'elle délivre sa réponse avant d'éxécuter la suite du code. Cela permet d'augmenter les performances du code.
 - les spécifités du mot-clef `this` ✔️
   -> Le mot clé this est utilisé à l'intérieur d'une classe, pour faire référence à l'objet qui sera instancié avec celle-ci
 
@@ -48,7 +48,7 @@ console.log(refactorArray(people, pascalCase));
 
 ### Utilisation dans un projet ✔️
 
-[https://github.com/elodiedaubie/express-hello-wilders](...)
+[Lien Projet](https://github.com/WildCodeSchool/2209-wns-adleman-citycompass)
 
 Description :
 
@@ -69,7 +69,7 @@ Description :
 [https://developer.mozilla.org/fr/docs/Web/JavaScript]
 [https://devdocs.io/javascript/]
 
-## 🚧 Je franchis les obstacles
+## 🚧 Je franchis les obstacles ❌ / ✔️
 
 ### Point de blocage ❌ / ✔️
 
@@ -77,8 +77,8 @@ Description:
 
 Plan d'action : (à valider par le formateur)
 
-- Faire une App React en JS à partir d'une API ❌ / ✔️
-- Faire 10 code wars 7 kyu mini ❌ / ✔️
+- Action 1 ❌ / ✔️
+- Action 2 ❌ / ✔️
 
 Résolution :
 
